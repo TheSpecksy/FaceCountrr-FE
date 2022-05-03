@@ -2,9 +2,9 @@ import React from 'react';
 
 const FacesDetected = ( {numFaces} ) => {
     return (
-        <div className='white f3'>
+        <div className='pa3 dark-green b f3'>
             {`Number of Faces Detected: `}
-            <div className='white f1'>
+            <div className='dark-green b pa3 f1'>
             {numFaces}
             </div>
         </div>

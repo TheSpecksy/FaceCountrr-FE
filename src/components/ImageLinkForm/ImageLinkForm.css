@@ -1,7 +1,9 @@
 .form {
-    width: 600px;
-    background-color:#001;
+    width: 700px;
+    background-color:#137752;
+    background-size:40px 60px;
 }
+
 h1 {
-    font-family: "Lucida Console"; 
+    font-family: "Poppins"; 
 }

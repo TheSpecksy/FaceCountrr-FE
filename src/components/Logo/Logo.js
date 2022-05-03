@@ -1,6 +1,6 @@
 import React from 'react';
 import Tilt from 'react-tilt';
-import reck from './reck.png';
+import thesplogo from './thesplogo.png';
 import './Logo.css';
 
 const Logo = () => {
@@ -12,7 +12,7 @@ const Logo = () => {
             justifyContent:'center'}}>
                 <Tilt className="Tilt br2 shadow-2" options={{ max : 55 }} style={{ height: 150, width: 150 }} >
                     <div className="Tilt-inner pa3">
-                        <img style={{paddingTop: '5px'}} alt='logo' src={reck}/>
+                        <img style={{paddingTop: '5px'}} alt='logo' src={thesplogo}/>
                     </div>
                 </Tilt>
             </div>
