@@ -1,2 +1,1 @@
-FaceCountrr is done by Anoop Udayan (2019-310-017) who is an engineering student of Jamia Hamdard as a Minor project.
-
+FaceCountrr or CountTheCountenance is a web application that counts total number of faces present in an image.
